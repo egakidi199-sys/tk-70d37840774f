@@ -1,7 +1,7 @@
 {
   "name": "Timber Keep",
   "short_name": "Timber Keep",
-  "description": "Лесоруб строит лагерь и отбивается от медведей",
+  "description": "Колония на чужой планете: днём добыча и стройка, ночью отряд на рубеже",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
