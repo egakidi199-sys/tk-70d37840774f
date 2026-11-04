@@ -1,10 +1,11 @@
 // Сгенерировано scripts/sw-plugin.ts при сборке — не править руками.
-const CACHE = 'tk-fe001e9a2078';
+const CACHE = 'tk-b2645aea6cd1';
 const ASSETS = [
  "./",
  "./apple-touch-icon.png",
- "./assets/crawler_v01-wiMrgRoV.glb",
- "./assets/index-B-Jvf5kJ.js",
+ "./assets/brute_v01-Dp1u5I34.glb",
+ "./assets/crawler_v02-DL9R0v1x.glb",
+ "./assets/index-Cn3aFmFB.js",
  "./assets/index-CnQcg73q.css",
  "./assets/rubezh_soldier_v02-JrCcSvOk.glb",
  "./assets/rubik-cyrillic-500-normal-BH_pkKR0.woff",
