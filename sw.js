@@ -1,12 +1,13 @@
 // Сгенерировано scripts/sw-plugin.ts при сборке — не править руками.
-const CACHE = 'tk-dc0c1ce107af';
+const CACHE = 'tk-6075e45cc33c';
 const ASSETS = [
  "./",
  "./apple-touch-icon.png",
- "./assets/brute_v01-Dp1u5I34.glb",
+ "./assets/armorback_v01-Be7QP0de.glb",
+ "./assets/brute_v02-CJOjA3-4.glb",
  "./assets/crawler_v02-DL9R0v1x.glb",
  "./assets/index-CtVU-y8z.css",
- "./assets/index-GV3GEahh.js",
+ "./assets/index-Dkdo7uGW.js",
  "./assets/rubezh_soldier_v02-JrCcSvOk.glb",
  "./assets/rubik-cyrillic-500-normal-BH_pkKR0.woff",
  "./assets/rubik-cyrillic-500-normal-Didq2w9O.woff2",
@@ -24,6 +25,7 @@ const ASSETS = [
  "./assets/rubik-latin-800-normal-Dq1miTTj.woff",
  "./assets/rubik-latin-900-normal-CBojinpD.woff",
  "./assets/rubik-latin-900-normal-Cz6GdZLE.woff2",
+ "./assets/tracked_robot_v01-BP3o_1k2.glb",
  "./icon-192.png",
  "./icon-512.png",
  "./icon-maskable-512.png",
