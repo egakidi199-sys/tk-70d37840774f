@@ -1,13 +1,22 @@
 // Сгенерировано scripts/sw-plugin.ts при сборке — не править руками.
-const CACHE = 'tk-b5230ce64cb7';
+const CACHE = 'tk-6e86b27179d9';
 const ASSETS = [
  "./",
  "./apple-touch-icon.png",
  "./assets/armorback_v01-Be7QP0de.glb",
+ "./assets/basemodule_a-DucMrvZG.glb",
+ "./assets/basemodule_c-Dg07b76s.glb",
+ "./assets/basemodule_d-Cb66xPb7.glb",
+ "./assets/basemodule_e-OP-55dg6.glb",
  "./assets/brute_v02-CJOjA3-4.glb",
+ "./assets/containers_blue-Djc5o_LZ.glb",
+ "./assets/containers_green-CWiAJmRb.glb",
  "./assets/crawler_v02-DL9R0v1x.glb",
+ "./assets/drill-DPKryHMa.glb",
+ "./assets/garage-CVDdoKxz.glb",
+ "./assets/index-BQbvY-CJ.js",
  "./assets/index-CTwyuOKG.css",
- "./assets/index-hcIsC_Vb.js",
+ "./assets/lander_a-UYoUed3J.glb",
  "./assets/rubezh_soldier_v02-JrCcSvOk.glb",
  "./assets/rubik-cyrillic-500-normal-BH_pkKR0.woff",
  "./assets/rubik-cyrillic-500-normal-Didq2w9O.woff2",
@@ -25,6 +34,8 @@ const ASSETS = [
  "./assets/rubik-latin-800-normal-Dq1miTTj.woff",
  "./assets/rubik-latin-900-normal-CBojinpD.woff",
  "./assets/rubik-latin-900-normal-Cz6GdZLE.woff2",
+ "./assets/spacetruck_large-Mv3c9J3B.glb",
+ "./assets/structure_tall-BqSxIBu8.glb",
  "./assets/tracked_robot_v01-BP3o_1k2.glb",
  "./icon-192.png",
  "./icon-512.png",
