@@ -1,5 +1,5 @@
 // Сгенерировано scripts/sw-plugin.ts при сборке — не править руками.
-const CACHE = 'tk-749875fbd9fc';
+const CACHE = 'tk-8929a4b8b5b9';
 const ASSETS = [
  "./",
  "./apple-touch-icon.png",
@@ -15,7 +15,7 @@ const ASSETS = [
  "./assets/drill-DPKryHMa.glb",
  "./assets/garage-CVDdoKxz.glb",
  "./assets/index-Ba8wjnBi.css",
- "./assets/index-DYMqvUAi.js",
+ "./assets/index-BwOrngqI.js",
  "./assets/lander_a-UYoUed3J.glb",
  "./assets/rubezh_soldier_v02-JrCcSvOk.glb",
  "./assets/rubik-cyrillic-500-normal-BH_pkKR0.woff",
